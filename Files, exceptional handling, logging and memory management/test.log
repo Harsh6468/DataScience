@@ -1,0 +1,18 @@
+ERROR:root:division by zero
+INFO:root:Code 
+INFO:root:Code 
+INFO:root:Code 
+INFO:root:Code 
+INFO:root:Code 
+ERROR:root:division by zero
+WARNING:root:This is warning.
+INFO:root:This is the information.
+ERROR:root:Unfortunatly error occured.
+ERROR:root:This an error.
+INFO:root:This an information.
+DEBUG:test002.log:This is a debug message.
+INFO:test002.log:This is an info message.
+WARNING:test002.log:This is a warning message.
+ERROR:test002.log:This is an error message.
+CRITICAL:test002.log:This is a critical message.
+ERROR:root:Error occurred while handling the file: [Errno 2] No such file or directory: 'nonexistent.txt'

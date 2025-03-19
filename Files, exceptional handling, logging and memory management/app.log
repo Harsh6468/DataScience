@@ -1,0 +1,15 @@
+2025-03-18 17:55:23,941 - test002.log - DEBUG - This is a debug message.
+2025-03-18 17:55:23,941 - test002.log - INFO - This is an info message.
+2025-03-18 17:55:23,941 - test002.log - WARNING - This is a warning message.
+2025-03-18 17:55:23,942 - test002.log - ERROR - This is an error message.
+2025-03-18 17:55:23,942 - test002.log - CRITICAL - This is a critical message.
+2025-03-18 17:55:48,515 - test002.log - DEBUG - This is a debug message.
+2025-03-18 17:55:48,516 - test002.log - INFO - This is an info message.
+2025-03-18 17:55:48,516 - test002.log - WARNING - This is a warning message.
+2025-03-18 17:55:48,516 - test002.log - ERROR - This is an error message.
+2025-03-18 17:55:48,516 - test002.log - CRITICAL - This is a critical message.
+2025-03-19 08:11:53,643 - test002.log - DEBUG - This is a debug message.
+2025-03-19 08:11:53,644 - test002.log - INFO - This is an info message.
+2025-03-19 08:11:53,645 - test002.log - WARNING - This is a warning message.
+2025-03-19 08:11:53,645 - test002.log - ERROR - This is an error message.
+2025-03-19 08:11:53,645 - test002.log - CRITICAL - This is a critical message.

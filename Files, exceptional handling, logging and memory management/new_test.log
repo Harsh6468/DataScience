@@ -1,0 +1,6 @@
+2025-03-18 16:03:31,946 Code 
+2025-03-18 16:03:44,998 Code 
+2025-03-18 16:07:11,098 INFO Code 
+2025-03-18 16:10:20,913 WARNING This is warning.
+2025-03-18 16:10:20,913 INFO This is the information.
+2025-03-18 16:10:20,913 ERROR Unfortunatly error occured.

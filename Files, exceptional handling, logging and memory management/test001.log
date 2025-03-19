@@ -1,0 +1,7 @@
+2025-03-18 17:38:49,897 ERROR This an error.
+2025-03-18 17:38:49,898 INFO This an information.
+2025-03-18 17:55:23,941 DEBUG This is a debug message.
+2025-03-18 17:55:23,941 INFO This is an info message.
+2025-03-18 17:55:23,941 WARNING This is a warning message.
+2025-03-18 17:55:23,942 ERROR This is an error message.
+2025-03-18 17:55:23,942 CRITICAL This is a critical message.
