@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Static Files in Flask</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Flask Static Files Example</h1>
+    <p>This is an example of serving static files in Flask.</p>
+
+    <!-- Display Image -->
+    <img src="{{ url_for('static', filename='logo.jpeg') }}" alt="Flask Logo">
+
+    <!-- Include JavaScript -->
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
